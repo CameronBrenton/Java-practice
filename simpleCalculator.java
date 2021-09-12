@@ -11,7 +11,7 @@ public class simpleCalculator {
 		System.out.println("Enter the second number");
 		int num2 = sc.nextInt();
 		int result;
-		switch (operator.equals()){
+		switch (operator){
 
 		case "+":
 			result = num1 + num2;
